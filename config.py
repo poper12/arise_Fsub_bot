@@ -10,7 +10,7 @@ API_ID = int(os.environ.get("API_ID", "20445873"))
 API_HASH = os.environ.get("API_HASH", "057fd0be9d7c38526b143c582bceb24b")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "6975428639"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5543390445"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://renamebot:amrenamebot@cluster0.5ornz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
@@ -70,7 +70,7 @@ FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hᴇʟʟᴏ Sᴇɴᴘᴀɪ {men
 
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(6299192020)
+ADMINS.append(5543390445)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
