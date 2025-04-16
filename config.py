@@ -11,23 +11,23 @@ API_HASH = os.environ.get("API_HASH", "057fd0be9d7c38526b143c582bceb24b")
 
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "5543390445"))
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://renamebot:amrenamebot@cluster0.5ornz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://mitsuha:mitsuha@cluster0.7zztr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002290453971"))     #DB of Hellsing
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002087370069"))     #DB of Hellsing [Aqua]
 
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002416627674"))  #Anime_Harvest
 
-REQUEST_CHANNEL_1 = int(os.environ.get("REQUEST_CHANNEL_1", "-1002376786303"))   #PVT channel of Anime Harvest
+REQUEST_CHANNEL_1 = int(os.environ.get("REQUEST_CHANNEL_1", "-1002183861154"))   #PVT channel of Anime Harvest
 
 
-REQUEST_CHANNEL_2 = int(os.environ.get("REQUEST_CHANNEL_2", "-1002489586500"))   #Backup Channel of Anime Harvest
+REQUEST_CHANNEL_2 = int(os.environ.get("REQUEST_CHANNEL_2", "-1002359112533"))   #Backup Channel of Anime Harvest [Manga Campus Backup channel]
 
 
 
-START_PIC = os.environ.get("START_PIC", "https://www.wallpaperflare.com/celine-farach-girls-model-hd-4k-5k-happiness-smiling-wallpaper-pidxz")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://www.wallpaperflare.com/girl-joy-hair-hand-beautiful-celine-farach-wallpaper-upkvm")
+START_PIC = os.environ.get("START_PIC", "")
+FORCE_PIC = os.environ.get("FORCE_PIC", "")
 
 FILE_AUTO_DELETE = int(os.getenv("FILE_AUTO_DELETE", "1800")) # auto delete in seconds
 
