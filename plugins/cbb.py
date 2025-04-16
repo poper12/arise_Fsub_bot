@@ -16,7 +16,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 ├➽ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href='tg://user?id={5543390445}'>Aaru</a>
 ├➽ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>
 ├➽ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pʏᴛʜᴏɴ 3</a>
-├➽ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Arise>Anime Arise</a>
+├➽ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Harvest>Anime Harvest</a>
 ├➽ Mᴀɪɴ Gʀᴏᴜᴘ : <a href=https://t.me/Manga_Campus_Chat>Chat GC</a></b>
 ╰───────────────⍟ """,
             disable_web_page_preview = True,
