@@ -17,12 +17,12 @@ DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002290453971"))     #DB of Hellsing
 
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002416627674"))  #Anime_Arise
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002416627674"))  #Anime_Harvest
 
-REQUEST_CHANNEL_1 = int(os.environ.get("REQUEST_CHANNEL_1", "-1002376786303"))   #PVT channel of Anime Arise
+REQUEST_CHANNEL_1 = int(os.environ.get("REQUEST_CHANNEL_1", "-1002376786303"))   #PVT channel of Anime Harvest
 
 
-REQUEST_CHANNEL_2 = int(os.environ.get("REQUEST_CHANNEL_2", "-1002489586500"))   #Backup Channel of Anime Arise
+REQUEST_CHANNEL_2 = int(os.environ.get("REQUEST_CHANNEL_2", "-1002489586500"))   #Backup Channel of Anime Harvest
 
 
 
@@ -62,7 +62,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME :</b>\n{uptime}"
 
 USER_REPLY_TEXT = "<blockquote>𝗗𝗼𝗻'𝘁 𝘀𝗲𝗻𝗱 𝗺𝗲 𝗱𝗶𝗿𝗲𝗰𝘁 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀 𝗶𝗻 𝗱𝗺, 𝗱𝗼 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮 𝗱𝗲𝗮𝘁𝗵 𝘄𝗶𝘀𝗵?</blockquote>"
 
-START_MSG = os.environ.get("START_MESSAGE", "<blockquote><b>Moshi moshi Senpai {mention}</b></blockquote>\n\n<b>I'm Killua Zoldyck a Filestore bot of @Anime_Arise,</b>\n\n<blockquote><i>Not killing people is really hard. Clean living is tough.</i></blockquote>\n\n<u><i>I can bring all animes for you</i></u>\n\n<b><a href=https://t.me/Manga_Campus>━━━━━━━━━━ 「 𝗠𝗮𝗻𝗴𝗮 𝗖𝗮𝗺𝗽𝘂𝘀 」 ━━━━━━━━━</a></b>")
+START_MSG = os.environ.get("START_MESSAGE", "<blockquote><b>Moshi moshi Senpai {mention}</b></blockquote>\n\n<b>I'm Killua Zoldyck a Filestore bot of @Anime_Harvest,</b>\n\n<blockquote><i>Not killing people is really hard. Clean living is tough.</i></blockquote>\n\n<u><i>I can bring all animes for you</i></u>\n\n<b><a href=https://t.me/Manga_Campus>━━━━━━━━━━ 「 𝗠𝗮𝗻𝗴𝗮 𝗖𝗮𝗺𝗽𝘂𝘀 」 ━━━━━━━━━</a></b>")
 
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Hᴇʟʟᴏ Sᴇɴᴘᴀɪ {mention}\n\n<b>Yᴏᴜ Nᴇᴇᴅ Tᴏ Jᴏɪɴ Iɴ Mʏ Cʜᴀɴɴᴇʟs Tᴏ Gᴇᴛ Fɪʟᴇs</b>")
 
