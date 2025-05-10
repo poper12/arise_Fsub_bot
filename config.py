@@ -17,7 +17,7 @@ DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002521004548"))     #DB of Hellsing [Aqua] [Killua DB]
 
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002416627674"))  #Anime_Harvest
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002498400014"))  #Anime_Harvest
 
 REQUEST_CHANNEL_1 = int(os.environ.get("REQUEST_CHANNEL_1", "-1002183861154"))   #PVT channel of Anime Harvest
 
